@@ -15,4 +15,10 @@ Build Kernel
 
 
 
+[Kernel Virutal(Swap) Memory](http://www.linuxidc.com/Linux/2012-08/67985.htm)
+
+
+
+
+
 
